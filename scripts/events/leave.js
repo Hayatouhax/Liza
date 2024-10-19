@@ -24,7 +24,7 @@ module.exports = {
 			session3: "afternoon",
 			session4: "evening",
 			leaveType1: "left",
-			leaveType2: "was kicked from",
+			leaveType2: "𝐓𝐮 𝐧𝐨𝐮𝐬 𝐦𝐚𝐧𝐪𝐮𝐞𝐫𝐚 😞",
 			defaultLeaveMessage: "{userName} {type} the group"
 		}
 	},
